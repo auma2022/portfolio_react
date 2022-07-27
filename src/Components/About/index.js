@@ -33,18 +33,13 @@ const About = () => {
             />
           </h1>
           <p>
-            I'm very ambitious front-end developer looking for a role in
-            established IT company with the opportunity to work with the latest
-            technologies on challenging and diverse projects.
+            I am a seasoned software expert who has developed products for enterprise clients such as Intuit, Yale University, and Hewlett-Packard (HP), as well as many venture-backed businesses. I specialize in building applications specific to the business needs of my clients. 
           </p>
           <p align="LEFT">
-            I'm quietly confident, naturally curious, and perpetually working on
-            improving my chops one design problem at a time.
+          I am a seasoned software expert who has developed products for enterprise clients such as Intuit, Yale University, and Hewlett-Packard (HP), as well as many venture-backed businesses. I specialize in building applications specific to the business needs of my clients. 
           </p>
           <p>
-            If I need to define myself in one sentence that would be a family
-            person, father of a beautiful daughter, a sports fanatic,
-            photography enthusiast, and tech-obsessed!!!
+            I am a seasoned software expert who has developed products for enterprise clients such as Intuit, Yale University, and Hewlett-Packard (HP), as well as many venture-backed businesses. I specialize in building applications specific to the business needs of my clients. 
           </p>
         </div>
 
